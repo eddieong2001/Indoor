@@ -1,0 +1,8 @@
+Derived from Indoor_F030RC_Try1.
+
+Remove the reserved function pins:
+
+SPI for WIFI
+TIM1 for UVW control
+I2C for external EEPROM
+ADC for current shunt
